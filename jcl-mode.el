@@ -2,7 +2,7 @@
 
 ;; Copyright (C) 2015  Laurent Siksous
 
-;; Author: Laurent Siksous <lss@Mfree.fr>
+;; Author: Laurent Siksous <lss@free.fr>
 ;; Keywords: JCL
 
 ;; This program is free software; you can redistribute it and/or modify
